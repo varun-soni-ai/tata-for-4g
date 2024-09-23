@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **tata-for-4g/tata-for-4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,6 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about : I am Data Science Enthusiast.
 - 📫 How to reach me: https://www.linkedin.com/in/varun-soni-ds-da/
 - 😄 Pronouns: He/Him
+# 💫 About Me: 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-soni-ds-da/) 
@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=tata-for-4g&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
-
