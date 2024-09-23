@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about : I am Data Science Enthusiast.
 - 📫 How to reach me: https://www.linkedin.com/in/varun-soni-ds-da/
 - 😄 Pronouns: He/Him
-# 💫 About Me: 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
