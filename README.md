@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 Here are some ideas to get you started:
 
