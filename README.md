@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/varun-soni-ds-da/
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **varunsoni982@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K6GZ8hs7FE86DIdIcYJ0f7V3O57EN63E/view?usp=drive_link](https://drive.google.com/file/d/1K6GZ8hs7FE86DIdIcYJ0f7V3O57EN63E/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K6GZ8hs7FE86DIdIcYJ0f7V3O57EN63E/view?usp=drive_link)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-soni-ai&label=Profile%20views&color=0e75b6&style=flat" alt="varun-soni-ai" /> </p>
 
