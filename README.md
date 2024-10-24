@@ -1,5 +1,6 @@
 <animated-image data-catalyst style="width: 500px;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" data-target="animated-image.originalLink">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </animated-image>
 <h1 align="center">Hi 👋, I'm Varun Soni</h1>
 <h3 align="center">A passionate AI developer from India</h3>
