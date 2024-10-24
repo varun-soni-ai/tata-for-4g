@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Soni</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=varun-soni-ai&label=Profile%20views&color=0e75b6&style=flat" alt="varun-soni-ai" /> </p>
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Computer Vision and LangGraph
@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **varunsoni982@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K6GZ8hs7FE86DIdIcYJ0f7V3O57EN63E/view?usp=drive_link)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-soni-ai&label=Profile%20views&color=0e75b6&style=flat" alt="varun-soni-ai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-soni-ai" alt="varun-soni-ai" /></a> </p>
 
