@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a> <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" alt="PyTorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p> 
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/781c3c118853603eeba9ed6b73cd756e27c20ad515ba6bbeebebe48bbc69744b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48756767696e67466163652d4644454532313f7374796c653d666f722d7468652d6261646765266c6f676f3d48756767696e6746616365266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" width="60" height="60"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/781c3c118853603eeba9ed6b73cd756e27c20ad515ba6bbeebebe48bbc69744b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48756767696e67466163652d4644454532313f7374796c653d666f722d7468652d6261646765266c6f676f3d48756767696e6746616365266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" width="100" height="40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-soni-ai&show_icons=true&locale=en&layout=compact" alt="varun-soni-ai" /></p>
 
