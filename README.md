@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K6GZ8hs7FE86DIdIcYJ0f7V3O57EN63E/view?usp=drive_link)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-soni-ai" alt="varun-soni-ai" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varun-soni-ds-da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-soni-ds-da" height="30" width="40" /></a>
