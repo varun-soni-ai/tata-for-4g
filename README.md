@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 <p> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/c23bfff14ba833960152dc178e4c9884bda210b634d05fba7fea29401f7139e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67636861696e2d3143334333433f7374796c653d666f722d7468652d6261646765266c6f676f3d6c616e67636861696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" width="110" height="40"/> </a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/781c3c118853603eeba9ed6b73cd756e27c20ad515ba6bbeebebe48bbc69744b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48756767696e67466163652d4644454532313f7374796c653d666f722d7468652d6261646765266c6f676f3d48756767696e6746616365266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="HuggingFace" width="110" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-soni-ai&show_icons=true&locale=en&layout=compact" alt="varun-soni-ai" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-soni-ai&show_icons=true&locale=en" alt="varun-soni-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-soni-ai&" alt="varun-soni-ai" /></p>
