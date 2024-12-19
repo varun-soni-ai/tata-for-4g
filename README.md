@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=varun-soni-ai&label=Profile%20views&color=0e75b6&style=flat" alt="varun-soni-ai" /> </p>
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Computer Vision and LangGraph
+- 🌱 I’m currently learning Azure and Knowledge Graphs.
 - 💬 Ask me about : I am Data Science Enthusiast.
 - 📫 How to reach me: https://www.linkedin.com/in/varun-soni-ds-da/
 - 😄 Pronouns: He/Him
